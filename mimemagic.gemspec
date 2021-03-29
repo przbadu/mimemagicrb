@@ -3,7 +3,7 @@ require File.dirname(__FILE__) + '/lib/mimemagic/version'
 require 'date'
 
 Gem::Specification.new do |s|
-  s.name = 'mimemagic'
+  s.name = 'mimemagicrb'
   s.version = MimeMagic::VERSION
 
   s.authors = ['Daniel Mendler']
